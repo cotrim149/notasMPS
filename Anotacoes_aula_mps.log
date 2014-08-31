@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.8.11)  31 AUG 2014 12:56
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.8.11)  31 AUG 2014 13:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -372,26 +372,19 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 109.
  [3]
-</home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/MPSBR_modelo_negocios.png, id=1
-8, 1371.1225pt x 770.88pt>
-File: /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/MPSBR_modelo_negocios.png 
-Graphic file (type png)
+<imagens/MPSBR_modelo_negocios.png, id=18, 1371.1225pt x 770.88pt>
+File: imagens/MPSBR_modelo_negocios.png Graphic file (type png)
 
-<use /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/MPSBR_modelo_negocios.png>
-Package pdftex.def Info: /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/MPSBR_m
-odelo_negocios.png used on input line 181.
+<use imagens/MPSBR_modelo_negocios.png>
+Package pdftex.def Info: imagens/MPSBR_modelo_negocios.png used on input line 1
+81.
 (pdftex.def)             Requested size: 342.77979pt x 192.71953pt.
+ [4] [5 <./imagens/MPSBR_modelo_negocios.png>] [6] <imagens/niveis_maturidade.p
+ng, id=28, 758.835pt x 539.01375pt>
+File: imagens/niveis_maturidade.png Graphic file (type png)
 
-[4] [5 </home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/MPSBR_modelo_negocios.pn
-g>] [6]
-</home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/niveis_maturidade.png, id=28, 7
-58.835pt x 539.01375pt>
-File: /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/niveis_maturidade.png Grap
-hic file (type png)
-
-<use /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/niveis_maturidade.png>
-Package pdftex.def Info: /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/niveis_
-maturidade.png used on input line 293.
+<use imagens/niveis_maturidade.png>
+Package pdftex.def Info: imagens/niveis_maturidade.png used on input line 293.
 (pdftex.def)             Requested size: 379.41658pt x 269.50621pt.
 
 Overfull \hbox (34.41658pt too wide) in paragraph at lines 293--294
@@ -403,165 +396,121 @@ Underfull \hbox (badness 10000) in paragraph at lines 296--299
 
  []
 
+<imagens/exemplo_garantia_qualidade_1.png, id=33, 746.79pt x 402.50375pt>
+File: imagens/exemplo_garantia_qualidade_1.png Graphic file (type png)
 
-</home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/exemplo_garantia_qualidade_1.pn
-g, id=33, 746.79pt x 402.50375pt>
-File: /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/exemplo_garantia_qualidade
-_1.png Graphic file (type png)
-
-<use /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/exemplo_garantia_qualidade_
-1.png>
-Package pdftex.def Info: /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/exemplo
-_garantia_qualidade_1.png used on input line 300.
+<use imagens/exemplo_garantia_qualidade_1.png>
+Package pdftex.def Info: imagens/exemplo_garantia_qualidade_1.png used on input
+ line 300.
 (pdftex.def)             Requested size: 224.03873pt x 120.75204pt.
 
-</home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/exemplo_garantia_qualidade_2.pn
-g, id=34, 750.805pt x 493.845pt>
-File: /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/exemplo_garantia_qualidade
-_2.png Graphic file (type png)
+<imagens/exemplo_garantia_qualidade_2.png, id=34, 750.805pt x 493.845pt>
+File: imagens/exemplo_garantia_qualidade_2.png Graphic file (type png)
 
-<use /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/exemplo_garantia_qualidade_
-2.png>
-Package pdftex.def Info: /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/exemplo
-_garantia_qualidade_2.png used on input line 301.
+<use imagens/exemplo_garantia_qualidade_2.png>
+Package pdftex.def Info: imagens/exemplo_garantia_qualidade_2.png used on input
+ line 301.
 (pdftex.def)             Requested size: 225.24323pt x 148.15463pt.
 
-</home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/exemplo_garantia_qualidade_3.pn
-g, id=35, 757.83125pt x 448.67625pt>
-File: /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/exemplo_garantia_qualidade
-_3.png Graphic file (type png)
+<imagens/exemplo_garantia_qualidade_3.png, id=35, 757.83125pt x 448.67625pt>
+File: imagens/exemplo_garantia_qualidade_3.png Graphic file (type png)
 
-<use /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/exemplo_garantia_qualidade_
-3.png>
-Package pdftex.def Info: /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/exemplo
-_garantia_qualidade_3.png used on input line 302.
+<use imagens/exemplo_garantia_qualidade_3.png>
+Package pdftex.def Info: imagens/exemplo_garantia_qualidade_3.png used on input
+ line 302.
 (pdftex.def)             Requested size: 227.35112pt x 134.60391pt.
 
 Overfull \hbox (121.50417pt too wide) in paragraph at lines 300--303
 [][] []
  []
 
-[8 </home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/niveis_maturidade.png>]
+[8 <./imagens/niveis_maturidade.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 312--314
 
  []
 
+<imagens/historico_cmmi.png, id=39, 872.25874pt x 612.2875pt>
+File: imagens/historico_cmmi.png Graphic file (type png)
 
-</home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/historico_cmmi.png, id=39, 872.
-25874pt x 612.2875pt>
-File: /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/historico_cmmi.png Graphic
- file (type png)
-
-<use /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/historico_cmmi.png>
-Package pdftex.def Info: /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/histori
-co_cmmi.png used on input line 315.
+<use imagens/historico_cmmi.png>
+Package pdftex.def Info: imagens/historico_cmmi.png used on input line 315.
 (pdftex.def)             Requested size: 305.29514pt x 214.30383pt.
-
-[9 </home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/exemplo_garantia_qualidade_1
-.png> </home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/exemplo_garantia_qualidad
-e_2.png> </home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/exemplo_garantia_quali
-dade_3.png>]
+ [9 <./imagens/exemplo_garantia_qualidade_1.png> <./imagens/exemplo_garantia_qu
+alidade_2.png> <./imagens/exemplo_garantia_qualidade_3.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 335--336
 
  []
 
+<imagens/representacoes_cont_estag.png, id=43, 909.3975pt x 643.40375pt>
+File: imagens/representacoes_cont_estag.png Graphic file (type png)
 
-</home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/representacoes_cont_estag.png, 
-id=43, 909.3975pt x 643.40375pt>
-File: /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/representacoes_cont_estag.
-png Graphic file (type png)
-
-<use /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/representacoes_cont_estag.p
-ng>
-Package pdftex.def Info: /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/represe
-ntacoes_cont_estag.png used on input line 337.
+<use imagens/representacoes_cont_estag.png>
+Package pdftex.def Info: imagens/representacoes_cont_estag.png used on input li
+ne 337.
 (pdftex.def)             Requested size: 363.75256pt x 257.35693pt.
 
 Overfull \hbox (65.7526pt too wide) in paragraph at lines 337--338
  [] 
  []
 
-[10 </home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/historico_cmmi.png>]
-</home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/estrutura_definicao_cmmi.png, i
-d=47, 774.895pt x 580.1675pt>
-File: /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/estrutura_definicao_cmmi.p
-ng Graphic file (type png)
+[10 <./imagens/historico_cmmi.png>]
+<imagens/estrutura_definicao_cmmi.png, id=47, 774.895pt x 580.1675pt>
+File: imagens/estrutura_definicao_cmmi.png Graphic file (type png)
 
-<use /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/estrutura_definicao_cmmi.pn
-g>
-Package pdftex.def Info: /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/estrutu
-ra_definicao_cmmi.png used on input line 344.
+<use imagens/estrutura_definicao_cmmi.png>
+Package pdftex.def Info: imagens/estrutura_definicao_cmmi.png used on input lin
+e 344.
 (pdftex.def)             Requested size: 387.44655pt x 290.08302pt.
 
 Overfull \hbox (42.44655pt too wide) in paragraph at lines 344--345
  [] 
  []
 
-[11 </home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/representacoes_cont_estag.p
-ng>] [12 </home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/estrutura_definicao_cm
-mi.png>] [13] [14]
-</home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/utilizacao_norma.png, id=61, 11
-55.31625pt x 391.4625pt>
-File: /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/utilizacao_norma.png Graph
-ic file (type png)
+[11 <./imagens/representacoes_cont_estag.png>] [12 <./imagens/estrutura_definic
+ao_cmmi.png>] [13] [14]
+<imagens/utilizacao_norma.png, id=61, 1155.31625pt x 391.4625pt>
+File: imagens/utilizacao_norma.png Graphic file (type png)
 
-<use /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/utilizacao_norma.png>
-Package pdftex.def Info: /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/utiliza
-cao_norma.png used on input line 476.
+<use imagens/utilizacao_norma.png>
+Package pdftex.def Info: imagens/utilizacao_norma.png used on input line 476.
 (pdftex.def)             Requested size: 288.82835pt x 97.86537pt.
+ [15 <./imagens/utilizacao_norma.png>]
+<imagens/ciclo_melhoria.png, id=65, 926.46124pt x 539.01375pt>
+File: imagens/ciclo_melhoria.png Graphic file (type png)
 
-[15 </home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/utilizacao_norma.png>]
-</home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/ciclo_melhoria.png, id=65, 926.
-46124pt x 539.01375pt>
-File: /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/ciclo_melhoria.png Graphic
- file (type png)
-
-<use /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/ciclo_melhoria.png>
-Package pdftex.def Info: /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/ciclo_m
-elhoria.png used on input line 490.
+<use imagens/ciclo_melhoria.png>
+Package pdftex.def Info: imagens/ciclo_melhoria.png used on input line 490.
 (pdftex.def)             Requested size: 277.9405pt x 161.70537pt.
 
-</home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/capacidade_processo.png, id=66,
- 1140.26pt x 461.725pt>
-File: /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/capacidade_processo.png Gr
-aphic file (type png)
+<imagens/capacidade_processo.png, id=66, 1140.26pt x 461.725pt>
+File: imagens/capacidade_processo.png Graphic file (type png)
 
-<use /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/capacidade_processo.png>
-Package pdftex.def Info: /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/capacid
-ade_processo.png used on input line 497.
+<use imagens/capacidade_processo.png>
+Package pdftex.def Info: imagens/capacidade_processo.png used on input line 497
+.
 (pdftex.def)             Requested size: 342.08064pt x 138.51857pt.
-
-[16 </home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/ciclo_melhoria.png> </home/
-cotrim/Dropbox/Unb/MPS/anotacoes/imagens/capacidade_processo.png>]
+ [16 <./imagens/ciclo_melhoria.png> <./imagens/capacidade_processo.png>]
 Overfull \hbox (13.80504pt too wide) in paragraph at lines 545--546
 []\OT1/cmr/m/n/10 O pro-cesso con-segue repetibil-i-dade em atin-gir suas metas
  de neg^^Socio definidas. 
  []
 
+<imagens/tabela_pontuacao.png, id=70, 1119.18124pt x 591.20876pt>
+File: imagens/tabela_pontuacao.png Graphic file (type png)
 
-</home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/tabela_pontuacao.png, id=70, 11
-19.18124pt x 591.20876pt>
-File: /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/tabela_pontuacao.png Graph
-ic file (type png)
-
-<use /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/tabela_pontuacao.png>
-Package pdftex.def Info: /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/tabela_
-pontuacao.png used on input line 552.
+<use imagens/tabela_pontuacao.png>
+Package pdftex.def Info: imagens/tabela_pontuacao.png used on input line 552.
 (pdftex.def)             Requested size: 391.7193pt x 206.92616pt.
 
 Overfull \hbox (46.7193pt too wide) in paragraph at lines 552--553
 [] 
  []
 
-[17]
-</home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/exemplo_pontuacao.png, id=74, 1
-173.38374pt x 330.23375pt>
-File: /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/exemplo_pontuacao.png Grap
-hic file (type png)
+[17] <imagens/exemplo_pontuacao.png, id=74, 1173.38374pt x 330.23375pt>
+File: imagens/exemplo_pontuacao.png Graphic file (type png)
 
-<use /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/exemplo_pontuacao.png>
-Package pdftex.def Info: /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/exemplo
-_pontuacao.png used on input line 557.
+<use imagens/exemplo_pontuacao.png>
+Package pdftex.def Info: imagens/exemplo_pontuacao.png used on input line 557.
 (pdftex.def)             Requested size: 434.14519pt x 122.18456pt.
 
 Overfull \hbox (104.14519pt too wide) in paragraph at lines 557--558
@@ -574,25 +523,22 @@ Overfull \hbox (12.91727pt too wide) in paragraph at lines 562--563
 i-re-tas da im-ple-menta^^Xc~ao
  []
 
-[18 </home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/tabela_pontuacao.png> </hom
-e/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/exemplo_pontuacao.png>] [19]
+[18 <./imagens/tabela_pontuacao.png> <./imagens/exemplo_pontuacao.png>]
+[19]
 LaTeX Font Info:    Font shape `OMS/cmr/bx/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 632.
+ <imagens/IDEAL.png, id=82, 1031.855pt x 419.5675pt>
+File: imagens/IDEAL.png Graphic file (type png)
 
-</home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/IDEAL.png, id=82, 1031.855pt x 
-419.5675pt>
-File: /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/IDEAL.png Graphic file (ty
-pe png)
- <use /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/IDEAL.png>
-Package pdftex.def Info: /home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/IDEAL.p
-ng used on input line 642.
+<use imagens/IDEAL.png>
+Package pdftex.def Info: imagens/IDEAL.png used on input line 642.
 (pdftex.def)             Requested size: 412.73468pt x 167.82402pt.
 
 Overfull \hbox (92.73471pt too wide) in paragraph at lines 642--643
  [] 
  []
 
-[20 </home/cotrim/Dropbox/Unb/MPS/anotacoes/imagens/IDEAL.png>]
+[20 <./imagens/IDEAL.png>]
 Overfull \hbox (6.52841pt too wide) in paragraph at lines 663--664
 []\OT1/cmr/m/n/10 Resolver prob-le-mas, Crono-grama, alo-car, Rela^^Xc~ao de ac
 om-pan-hamento
@@ -625,8 +571,8 @@ nto(Treinamentos)
 [26] (./Anotacoes_aula_mps.aux) ) 
 Here is how much of TeX's memory you used:
  1799 strings out of 494985
- 28215 string characters out of 6180356
- 80962 words of memory out of 5000000
+ 25992 string characters out of 6180356
+ 80923 words of memory out of 5000000
  4992 multiletter control sequences out of 15000+600000
  8150 words of font info for 29 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
@@ -638,7 +584,7 @@ s/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pf
 b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Anotacoes_aula_mps.pdf (26 pages, 1943193 bytes).
+Output written on Anotacoes_aula_mps.pdf (26 pages, 1943242 bytes).
 PDF statistics:
  130 PDF objects out of 1000 (max. 8388607)
  80 compressed objects within 1 object stream
