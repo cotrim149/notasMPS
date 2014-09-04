@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.8.11)  1 SEP 2014 10:26
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.8.11)  3 SEP 2014 22:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -368,207 +368,223 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 55.
  [2] [3]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 114.
+(Font)              <7> on input line 141.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 114.
+(Font)              <5> on input line 141.
  [4]
 <imagens/MPSBR_modelo_negocios.png, id=21, 1371.1225pt x 770.88pt>
 File: imagens/MPSBR_modelo_negocios.png Graphic file (type png)
 
 <use imagens/MPSBR_modelo_negocios.png>
-Package pdftex.def Info: imagens/MPSBR_modelo_negocios.png used on input line 1
-86.
+Package pdftex.def Info: imagens/MPSBR_modelo_negocios.png used on input line 2
+13.
 (pdftex.def)             Requested size: 342.77979pt x 192.71953pt.
- [5 <./imagens/MPSBR_modelo_negocios.png>] [6] [7] <imagens/niveis_maturidade.p
+ [5] [6 <./imagens/MPSBR_modelo_negocios.png>] [7] <imagens/niveis_maturidade.p
 ng, id=32, 758.835pt x 539.01375pt>
 File: imagens/niveis_maturidade.png Graphic file (type png)
 
 <use imagens/niveis_maturidade.png>
-Package pdftex.def Info: imagens/niveis_maturidade.png used on input line 298.
+Package pdftex.def Info: imagens/niveis_maturidade.png used on input line 325.
 (pdftex.def)             Requested size: 379.41658pt x 269.50621pt.
 
-Overfull \hbox (34.41658pt too wide) in paragraph at lines 298--299
+Overfull \hbox (34.41658pt too wide) in paragraph at lines 325--326
 [] 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 301--304
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 328--331
 
  []
 
-<imagens/exemplo_garantia_qualidade_1.png, id=33, 746.79pt x 402.50375pt>
+<imagens/exemplo_garantia_qualidade_1.png, id=36, 746.79pt x 402.50375pt>
 File: imagens/exemplo_garantia_qualidade_1.png Graphic file (type png)
 
 <use imagens/exemplo_garantia_qualidade_1.png>
 Package pdftex.def Info: imagens/exemplo_garantia_qualidade_1.png used on input
- line 305.
+ line 332.
 (pdftex.def)             Requested size: 224.03873pt x 120.75204pt.
 
-<imagens/exemplo_garantia_qualidade_2.png, id=34, 750.805pt x 493.845pt>
+<imagens/exemplo_garantia_qualidade_2.png, id=37, 750.805pt x 493.845pt>
 File: imagens/exemplo_garantia_qualidade_2.png Graphic file (type png)
 
 <use imagens/exemplo_garantia_qualidade_2.png>
 Package pdftex.def Info: imagens/exemplo_garantia_qualidade_2.png used on input
- line 306.
+ line 333.
 (pdftex.def)             Requested size: 225.24323pt x 148.15463pt.
 
-<imagens/exemplo_garantia_qualidade_3.png, id=35, 757.83125pt x 448.67625pt>
+<imagens/exemplo_garantia_qualidade_3.png, id=38, 757.83125pt x 448.67625pt>
 File: imagens/exemplo_garantia_qualidade_3.png Graphic file (type png)
 
 <use imagens/exemplo_garantia_qualidade_3.png>
 Package pdftex.def Info: imagens/exemplo_garantia_qualidade_3.png used on input
- line 307.
+ line 334.
 (pdftex.def)             Requested size: 227.35112pt x 134.60391pt.
 
-Overfull \hbox (121.50417pt too wide) in paragraph at lines 305--308
+Overfull \hbox (121.50417pt too wide) in paragraph at lines 332--335
 [][] []
  []
 
-[8 <./imagens/niveis_maturidade.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 317--319
+[9 <./imagens/niveis_maturidade.png>]
+Overfull \hbox (9.14622pt too wide) in paragraph at lines 347--348
+ \OT1/cmr/bx/n/10 Prover[] \OT1/cmr/m/n/10 um con-junto de pro-ces-sos para fa-
+cil-i-tar a co-mu-nica^^Xc~ao en-tre adquirentes,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 347--348
 
  []
 
-<imagens/historico_cmmi.png, id=39, 872.25874pt x 612.2875pt>
+[10 <./imagens/exemplo_garantia_qualidade_1.png> <./imagens/exemplo_garantia_qu
+alidade_2.png> <./imagens/exemplo_garantia_qualidade_3.png>]
+Overfull \hbox (21.2783pt too wide) in paragraph at lines 356--357
+[]\OT1/cmr/m/n/10 Processo con-trat-u-ais(acordo): De-fine rela^^Xc~ao en-tre f
+ornece-dor e adquirente 
+ []
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 392--394
+
+ []
+
+<imagens/historico_cmmi.png, id=48, 872.25874pt x 612.2875pt>
 File: imagens/historico_cmmi.png Graphic file (type png)
 
 <use imagens/historico_cmmi.png>
-Package pdftex.def Info: imagens/historico_cmmi.png used on input line 320.
+Package pdftex.def Info: imagens/historico_cmmi.png used on input line 395.
 (pdftex.def)             Requested size: 305.29514pt x 214.30383pt.
- [9 <./imagens/exemplo_garantia_qualidade_1.png> <./imagens/exemplo_garantia_qu
-alidade_2.png> <./imagens/exemplo_garantia_qualidade_3.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 340--341
+ [12 <./imagens/historico_cmmi.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 415--416
 
  []
 
-<imagens/representacoes_cont_estag.png, id=43, 909.3975pt x 643.40375pt>
+<imagens/representacoes_cont_estag.png, id=52, 909.3975pt x 643.40375pt>
 File: imagens/representacoes_cont_estag.png Graphic file (type png)
 
 <use imagens/representacoes_cont_estag.png>
 Package pdftex.def Info: imagens/representacoes_cont_estag.png used on input li
-ne 342.
+ne 417.
 (pdftex.def)             Requested size: 363.75256pt x 257.35693pt.
 
-Overfull \hbox (65.7526pt too wide) in paragraph at lines 342--343
+Overfull \hbox (65.7526pt too wide) in paragraph at lines 417--418
  [] 
  []
 
-[10 <./imagens/historico_cmmi.png>]
-<imagens/estrutura_definicao_cmmi.png, id=47, 774.895pt x 580.1675pt>
+<imagens/estrutura_definicao_cmmi.png, id=53, 774.895pt x 580.1675pt>
 File: imagens/estrutura_definicao_cmmi.png Graphic file (type png)
 
 <use imagens/estrutura_definicao_cmmi.png>
 Package pdftex.def Info: imagens/estrutura_definicao_cmmi.png used on input lin
-e 349.
+e 424.
 (pdftex.def)             Requested size: 387.44655pt x 290.08302pt.
 
-Overfull \hbox (42.44655pt too wide) in paragraph at lines 349--350
+Overfull \hbox (42.44655pt too wide) in paragraph at lines 424--425
  [] 
  []
 
-[11 <./imagens/representacoes_cont_estag.png>] [12 <./imagens/estrutura_definic
-ao_cmmi.png>] [13] [14]
-<imagens/utilizacao_norma.png, id=61, 1155.31625pt x 391.4625pt>
+[13 <./imagens/representacoes_cont_estag.png>] [14 <./imagens/estrutura_definic
+ao_cmmi.png>] [15] [16]
+<imagens/utilizacao_norma.png, id=67, 1155.31625pt x 391.4625pt>
 File: imagens/utilizacao_norma.png Graphic file (type png)
 
 <use imagens/utilizacao_norma.png>
-Package pdftex.def Info: imagens/utilizacao_norma.png used on input line 481.
+Package pdftex.def Info: imagens/utilizacao_norma.png used on input line 556.
 (pdftex.def)             Requested size: 288.82835pt x 97.86537pt.
- [15 <./imagens/utilizacao_norma.png>]
-<imagens/ciclo_melhoria.png, id=65, 926.46124pt x 539.01375pt>
+ [17 <./imagens/utilizacao_norma.png>]
+<imagens/ciclo_melhoria.png, id=71, 926.46124pt x 539.01375pt>
 File: imagens/ciclo_melhoria.png Graphic file (type png)
 
 <use imagens/ciclo_melhoria.png>
-Package pdftex.def Info: imagens/ciclo_melhoria.png used on input line 495.
+Package pdftex.def Info: imagens/ciclo_melhoria.png used on input line 570.
 (pdftex.def)             Requested size: 277.9405pt x 161.70537pt.
 
-<imagens/capacidade_processo.png, id=66, 1140.26pt x 461.725pt>
+<imagens/capacidade_processo.png, id=72, 1140.26pt x 461.725pt>
 File: imagens/capacidade_processo.png Graphic file (type png)
 
 <use imagens/capacidade_processo.png>
-Package pdftex.def Info: imagens/capacidade_processo.png used on input line 502
+Package pdftex.def Info: imagens/capacidade_processo.png used on input line 577
 .
 (pdftex.def)             Requested size: 342.08064pt x 138.51857pt.
- [16 <./imagens/ciclo_melhoria.png> <./imagens/capacidade_processo.png>]
-Overfull \hbox (13.80504pt too wide) in paragraph at lines 550--551
+ [18 <./imagens/ciclo_melhoria.png> <./imagens/capacidade_processo.png>]
+Overfull \hbox (13.80504pt too wide) in paragraph at lines 625--626
 []\OT1/cmr/m/n/10 O pro-cesso con-segue repetibil-i-dade em atin-gir suas metas
  de neg^^Socio definidas. 
  []
 
-<imagens/tabela_pontuacao.png, id=70, 1119.18124pt x 591.20876pt>
+<imagens/tabela_pontuacao.png, id=76, 1119.18124pt x 591.20876pt>
 File: imagens/tabela_pontuacao.png Graphic file (type png)
 
 <use imagens/tabela_pontuacao.png>
-Package pdftex.def Info: imagens/tabela_pontuacao.png used on input line 557.
+Package pdftex.def Info: imagens/tabela_pontuacao.png used on input line 632.
 (pdftex.def)             Requested size: 391.7193pt x 206.92616pt.
 
-Overfull \hbox (46.7193pt too wide) in paragraph at lines 557--558
+Overfull \hbox (46.7193pt too wide) in paragraph at lines 632--633
 [] 
  []
 
-[17] <imagens/exemplo_pontuacao.png, id=74, 1173.38374pt x 330.23375pt>
+[19] <imagens/exemplo_pontuacao.png, id=81, 1173.38374pt x 330.23375pt>
 File: imagens/exemplo_pontuacao.png Graphic file (type png)
 
 <use imagens/exemplo_pontuacao.png>
-Package pdftex.def Info: imagens/exemplo_pontuacao.png used on input line 562.
+Package pdftex.def Info: imagens/exemplo_pontuacao.png used on input line 637.
 (pdftex.def)             Requested size: 434.14519pt x 122.18456pt.
 
-Overfull \hbox (104.14519pt too wide) in paragraph at lines 562--563
+Overfull \hbox (104.14519pt too wide) in paragraph at lines 637--638
 [][] 
  []
 
 
-Overfull \hbox (12.91727pt too wide) in paragraph at lines 567--568
+Overfull \hbox (12.91727pt too wide) in paragraph at lines 642--643
 []\OT1/cmr/m/n/10 Evid^encias in-di-re-tas: Rep-re-sen-tam con-sequ^encias in-d
 i-re-tas da im-ple-menta^^Xc~ao
  []
 
-[18 <./imagens/tabela_pontuacao.png> <./imagens/exemplo_pontuacao.png>]
-[19]
+[20 <./imagens/tabela_pontuacao.png> <./imagens/exemplo_pontuacao.png>]
+[21]
 LaTeX Font Info:    Font shape `OMS/cmr/bx/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 637.
- <imagens/IDEAL.png, id=82, 1031.855pt x 419.5675pt>
+(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 712.
+ <imagens/IDEAL.png, id=88, 1031.855pt x 419.5675pt>
 File: imagens/IDEAL.png Graphic file (type png)
 
 <use imagens/IDEAL.png>
-Package pdftex.def Info: imagens/IDEAL.png used on input line 647.
+Package pdftex.def Info: imagens/IDEAL.png used on input line 722.
 (pdftex.def)             Requested size: 412.73468pt x 167.82402pt.
 
-Overfull \hbox (92.73471pt too wide) in paragraph at lines 647--648
+Overfull \hbox (92.73471pt too wide) in paragraph at lines 722--723
  [] 
  []
 
-[20 <./imagens/IDEAL.png>]
-Overfull \hbox (6.52841pt too wide) in paragraph at lines 668--669
+[22 <./imagens/IDEAL.png>]
+Overfull \hbox (6.52841pt too wide) in paragraph at lines 743--744
 []\OT1/cmr/m/n/10 Resolver prob-le-mas, Crono-grama, alo-car, Rela^^Xc~ao de ac
 om-pan-hamento
  []
 
 
-Overfull \hbox (13.3339pt too wide) in paragraph at lines 673--674
+Overfull \hbox (13.3339pt too wide) in paragraph at lines 748--749
 []\OT1/cmr/m/n/10 Criam solu^^Xc~oes para os prob-le-mas iden-ti-fi-ca-dos, de-
 sen-volvem es-trat^^Segias! 
  []
 
 
-Overfull \hbox (0.77837pt too wide) in paragraph at lines 696--697
+Overfull \hbox (0.77837pt too wide) in paragraph at lines 771--772
 []\OT1/cmr/m/n/10 Obter com-pro-men-ti-mento com os re-cur-sos (re-spon-s-abil-
 i-dade do grupo
  []
 
-[21] [22] [23] [24]
-Overfull \hbox (29.39494pt too wide) in paragraph at lines 868--869
+[23] [24] [25] [26]
+Overfull \hbox (29.39494pt too wide) in paragraph at lines 943--944
 []\OT1/cmr/m/n/10 M^^Setrica: Rela^^Xc~ao en-tre es-for^^Xco para manuten^^Xc~a
 o cor-re-tiva e manuten^^Xc~ao
  []
 
-[25]
-Overfull \hbox (6.55608pt too wide) in paragraph at lines 918--919
+[27]
+Overfull \hbox (6.55608pt too wide) in paragraph at lines 993--994
 []\OT1/cmr/m/n/10 Cria^^Xc~ao de pro-cesso para trans-fer^encia de con-hec-i-me
 nto(Treinamentos) 
  []
 
-[26] (./Anotacoes_aula_mps.aux) ) 
+[28] (./Anotacoes_aula_mps.aux) ) 
 Here is how much of TeX's memory you used:
  1799 strings out of 494985
  25992 string characters out of 6180356
@@ -576,7 +592,7 @@ Here is how much of TeX's memory you used:
  4992 multiletter control sequences out of 15000+600000
  8150 words of font info for 29 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 37i,7n,23p,414b,331s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,7n,23p,414b,314s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmbsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
@@ -584,10 +600,10 @@ s/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pf
 b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Anotacoes_aula_mps.pdf (26 pages, 1943652 bytes).
+Output written on Anotacoes_aula_mps.pdf (28 pages, 1947782 bytes).
 PDF statistics:
- 130 PDF objects out of 1000 (max. 8388607)
- 80 compressed objects within 1 object stream
+ 136 PDF objects out of 1000 (max. 8388607)
+ 84 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  71 words of extra memory for PDF output out of 10000 (max. 10000000)
 

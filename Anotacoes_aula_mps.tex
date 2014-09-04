@@ -333,6 +333,54 @@ Resultado(s) esperado(s) \\
 \includegraphics[scale=0.30]{exemplo_garantia_qualidade_2}
 \includegraphics[scale=0.30]{exemplo_garantia_qualidade_3}
 
+\section{ISO/IEC IEEE 12207 - Definição de processos}
+\date{03/09/2014}
+\paragraph{\textbf{System} and \textbf{Engineering} - Software \textbf{Lifecycle} Process}
+\subsection{Introdução}
+	\begin{itemize}
+	\item Sistema: Conjunto de elementos que se interagem com o objetivo de atingir um ou mais propósitos. Empresa é um sistema: possui pessoas, ativos, software,...
+	\item Software: Conjunto de programas, procedimentos, e documentação e dados associados
+	\item Modelo ciclo de vida: Expressa a evolução de um sistema, produto, serviço, projeto ou qualquer outra entidade desde a concepção até a retirada.
+	\end{itemize}
+
+\subsection{Propósito}
+	\paragraph{Prover} um conjunto de processos para facilitar a comunicação entre adquirentes, forncedores e outros envolvidos no ciclo de vida do produto de software\\
+
+	Contexto brasileiro influênciou o MPS-BR e CMMI(Definição de processos)
+	
+\subsection{Categorias de processos}
+	São 43 processo distribuidos entre duas categorias
+	\begin{itemize}
+	\item 25 deles na categoria "Contexto do sistema"
+		\begin{enumerate}
+		\item Processo contratuais(acordo): Define relação entre fornecedor e adquirente
+		\item Processos organizacionais capacitadores de projeto: gerencia a capacidade organizacional de adquirir produtos e serviços
+		\item Processos de projeto: Auxilia na contrução dos outros itens do sistema
+		\item processos técnicos: Define requisitos para o sistema
+		\end{enumerate}
+	\item 18 deles na categoria "Específico de Software"
+		\begin{enumerate}
+		\item Processo de implementação de software: Produz de fato algum ítem de software
+		\item Processo de apoio ao Software
+		\item Processo de reuso
+		\end{enumerate}
+	\end{itemize}
+
+	(IMAGEM SLIDE 9 - aula 5(1.2014))\\
+	Não define papeis!
+
+\subsection{Exercício}
+Processo: Desenvolvimento de sw
+SubProcesso: Desenvolvimento de requisitos
+Atividades:
+	\begin{enumerate}
+	\item Identificar de requisitos
+	\item Priorizar requisitos
+	\item Validar requisitos
+	\item Gerenciar mudanças nos requisitos	
+	\end{enumerate}		
+Fluxograma:
+	(IMAGEM FEITA NO QUADRO)
 
 \section{CMMI para desenvolvedores} \date{2 de Abril de 2014}
 
@@ -953,10 +1001,27 @@ Comparação IDEAL
 		\item Quais papeis possuem maior quantidade de tarefas?
 			\begin{enumerate}
 			\item Métrica: Quantidade média de tarefas por papel
+				\begin{enumerate}
+				
+				\item Entrada: documentação de processo
+				\item Coleta de dados: Contagem de quantidade de tarefas por papel presente(n)
+				\item Processamento dos dados: Somatório de n para cada papel dividido pela quantidade de papeis
+				\item Apresentação de dados: Número bruto calculado
+				\item Análise: Para cada papel, quanto mais perto da média melhor.
+				
+				\end{enumerate}
 			\end{enumerate}
 		\item Qual o nível de dificuldade da tarefa em relação ao papel desempenhado?
 			\begin{enumerate}
-			\item Métrica: Dificuldade de uma terefa por papel (escala de dificuldade)
+			\item Métrica: Dificuldade média de uma tarefa por papel (escala de dificuldade)
+				\begin{enumerate}
+				\item Entrada: Documentação de processo
+				\item Coleta de dados: Questionário feito a partir das tarefas referentes a cada papel
+				\item Processamento de dados: soma do valor de cada resultado de questão de cada questionário feito dividido pela quantidade de questionários feitos.
+				\item Apresentação de dados: Número bruto calculado
+				\item Análise: Verificação do valor da dificuldade média encontrada para cada tarefa. Esta análise, deve ser feita em conjunto de outros indicadores para uma resposta mais clara.
+				  
+				\end{enumerate}
 			\end{enumerate}
 		\item Quantas tarefas são alocadas para cada membro da equipe?
 			\begin{enumerate}
