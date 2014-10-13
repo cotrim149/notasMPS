@@ -366,6 +366,7 @@ Nível 0 & - \\
 \subsubsection{Objetivo} Descrever de forma detalhada o MR-MPS e as definições comum.
 \subsubsection{Público-Alvo} 
 	\begin{itemize}
+		\item Organizações interessadas em utilizar o MR-MPS para melhoria de seus processos de software
 		\item Instituições avaliadoras(IA)
 		\item Instituilçoes implementadores(II)
 		\item outros interessados que queiram usar como referência
@@ -375,18 +376,20 @@ Nível 0 & - \\
 	\begin{itemize}
 	\item Níveis de Maturidade: possui um conjunto de processos e capacidades de processo
 		\begin{itemize}
-		\item Processo: Lista de processos
+		\item Processo(Veio da 12.207): Lista de processos
 			\begin{itemize}
 			\item Propósito
 				\begin{itemize}
 				\item Resultados específico (Bem relacionados com as saidas da 12.207)
 				\end{itemize}
+					 
+			\end{itemize}
+
 			\item Capacidades(Veio da 15.504): Verificar a capacidade q o processo tem para atingir seu objetivo	
 				\begin{itemize}
 				\item Atributos \{Executado,\\ Gerenciado,\\ Definido,\\ Medido/controlado, \\Em otimização\\ \}
 				\item Resultados: detalhar a capacidade que um processo pode ter.
-				\end{itemize}					 
-			\end{itemize}
+				\end{itemize}
 		\end{itemize}			 
 	\end{itemize}
 
@@ -468,13 +471,13 @@ Fluxograma:
 	\begin{center}
 		\includegraphics[scale=0.35]{historico_cmmi} \\
 	\end{center}
-	Foi criado para reseolver o problema originado com o uso de múltiplis CMMs.
+	Foi criado para resolver o problema originado com o uso de múltiplis CMMs.
 
 \subsection{Conceitos}
 
 \begin{enumerate}
 \item Área de processos: Conjunto de práticas relacionadas a uma área que, quando implmentadas, satisfazem a um conjunto de metas consideradas importantes.
-\item Capacidade: Habilidade do processo para alcançar ps objetivos de negócio, atuais ou futuros.
+\item Capacidade: Habilidade do processo para alcançar ps objetivos de negócio, atuais ou futuros.Quão bom é um determinado processo.
 \item Maturidade: Composto por práticas específicas e genéricas relacionadas a um conjunto predefinidas de áreas de processo.
 \end{enumerate}
 
@@ -497,6 +500,8 @@ Fluxograma:
 	\begin{center}
 		\includegraphics[scale=0.5]{estrutura_definicao_cmmi}
 	\end{center}
+	metas específicas - conteúdo do processo
+	metas genéricas - capacidade do processo
 
 \subsection{Categorias do precessos do CMMI para desenvolvedores}
 
@@ -508,19 +513,57 @@ Fluxograma:
 \section{Métodos ágeis} \date{7 de Abril de 2014}
 
 \subsection{Manifesto ágil}
-
+	Aceitar mudanças, priorizar pessoas, prezar pela simplicidade, melhores arquiteturas vem de times auto-organizáveis 
 \subsection{Scrum}
-\paragraph{Dono do produto}
-\paragraph{Dono do produto}
-\paragraph{Dono do produto}
+\paragraph{Dono do produto}: Cliente e fornecedor de requisitos
+\paragraph{Scrum master}: Interface entre time e Dono do produto. Farantir que o Scrum está sendo seguido corretamente
+\paragraph{Time}
 
 \subsubsection{Ciclo de vida}
-
+	Definição do backlog do produto, definição do baclog da sprint(mais detalhado),sprint(evento de duração fixa),revisão da sprint(aprovação do software pelo cliente), retrospective de sprint(Princípio 12, o time reflete como ficar mais efetivo) 
 \subsection{XP}
-\subsubsection{Valores}
-\subsubsection{Práticas XP}
+	Desenvolver software de maneira rápida. Metodologia para o time
 
-\section{Avaliação de processo de software} \date{23 de Abril de 2014}
+\subsubsection{Principios e Valores}
+	Comunicação, simplicidade, Feedback, coragem/confiança
+\subsubsection{Práticas XP}
+	Jogo do planejamento: planejar, priorizar e definir estórias\\
+	Releases pequenas: De tempos pequenos é feito a entrega de software com valor. Sensação de progresso.\\
+	Testes frequentes: Funcional e unitário. Primeiro é feito o teste
+	Metáfora: Linguagem simples com o cliente(vocabulário comum)
+	Design Simples: design daquilo que vc está trabalhando. Melhor e mais simples possível.
+	Refatoração: Refaz da melhor forma
+	Programação por pares: utilizando da maneira mais eficiente da transmisão da informaçõa
+	Propriedade coletiva do código: Todos mechem no código
+	Integração contínua: Terminou a funcionalidade, integre!
+	Ritmos sustentável: Não trabalhar mais do que foi planjeado para o dia/semana, gera desmotivação e probabilidade de falhas.
+	Cliente presente: cliente acompanhando o projeto passo-a-passo
+	padrões de codificação
+	
+\subsection{Exercício}
+
+SubProcesso: Desenvolvimento de software
+	Atividades
+
+		Levantamento de requisitos - Metáfora
+			Montagem de user Stories - método
+		Definir atividades do desenvolvimento		
+			Definição de backlogs(produto e sprint) - Reunião de planejamento
+		
+	Desenvolvimento
+		Planejar testes
+		%Desenvolver arquitetura
+		Codificar
+		Realizar testes
+		Realizar integração
+		Entregar produto
+			
+		Fluxograma
+				
+						
+\section{Avaliação de processo de software} 
+Iniciado em \date{23 de Abril de 2014}\\
+Editado em \date{13 de Outubro de 2014}
 
 \subsection{Para que serve ?}
 	\begin{itemize}
@@ -530,35 +573,57 @@ Fluxograma:
 	\end{itemize}	
 
 \subsection{Quando avaliar ?}
-	ciclo IDEAL
-	Avaliação no diagnóstico
-	Avaliação no final do ciclo
+	\begin{itemize}
+	\item Ciclo IDEAL
+		\begin{enumerate}
+		\item Avaliação no diagnóstico
+		\item Avaliação no final do ciclo antes da aprendizagem
+		\end{enumerate}
+	\item Ciclo PDCA
+		\begin{enumerate}
+		\item Avaliação no planejamento
+		\item Avaliação na checagem
+		\end{enumerate}
+	\item Ciclo QIP
+		\begin{enumerate}
+		\item Avaliação na caracterização
+		\item Avaliação na análise de dados
+		\end{enumerate}
+	\end{itemize}
+	
 	
 \subsection{Por que avaliar?}
 	Para verifivar nível de aderência a um determinado modelo de referência
 	Nível de maturidade
 
 \subsection{Como avaliar ?}
-	Avaliar é medir e comparar!
+	Avaliar é medir e comparar!\\
+	Comparar com seus padrões(normas)
 	\subsubsection{Como realizar uma avaliação?}
 		Depende do seu objetivo!
 		Definir os objetivos de melhoria!
 	\subsubsection{Como são feitas?}
 		Feitas com base em algum modelo ou norma de qualidade, com o objetivo de caracterizar o processo com base no modelo.
 		Os métodos existentes seguem mais ou menos os mesmos passos.
-		São baseados em evidências diretas(documentação) e indiretas.
-		
+		São baseados em evidências diretas(documentação) e indiretas, dependendem de seus objetivos.
+		Evidências diretas
+			Resultado de um determinado requisito avaliado
+		Evidências indireta
+			Inidicativo de que aquele requisito está sendo feito
+		Afirmação
+			Coletadas durante entrevistas de cada resultado esperado ou cada prática
 \subsection{Fases de um processo}
 	\begin{enumerate}
 	
-	\item Preparar e planear avaliação
+	\item Preparar e planejar avaliação
 		\begin{itemize}
-		\item Identificar as evidências iniciais de execução do processo
+		\item Identificar as evidências iniciais de execução do processo (Pré-avaliação)
 		\end{itemize}	
 	\item Conduzir avaliação
 		\begin{itemize}
-		\item Coletar evidências e analisar
-		\end{itemize}		
+		\item Coletar evidências e analisar com maior profundidade
+		\item Realização das entrevistas (coleta e análise de afirmações)
+		\end{itemize}
 	\item Relatar resultados
 		\begin{itemize}
 		\item Um relatório da avaliação
