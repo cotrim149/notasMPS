@@ -674,19 +674,22 @@ Editado em \date{13 de Outubro de 2014}
 	\item Considerações Finais
 	\end{enumerate}
 
-\section{15504 - Método de avaliação e capacidade de processo } \date{28 de Abril de 2014}
-
+\section{15504 - Método de avaliação e capacidade de processo } 
+\date{28 de Abril de 2014}\\
+Editato em \date{22 de Outubro de 2014}
 \subsection{Objetivos}
-	Determinar a capacidade dos processos de uma empresa
-	Orientar a empresa para uma melhoria contínua de seus processos
-	É uma norma que ajuda na criação e definição de como avaliar os níveis de capacidade
+	\begin{itemize}
+	\item Determinar a capacidade dos processos de uma empresa
+	\item Orientar a empresa para uma melhoria contínua de seus processos
+	\item É uma norma que ajuda na criação e definição de como avaliar os níveis de capacidade
+	\end{itemize}
 	
-	Obs: Scampi e MA-MPS.BR provieram da 15504
-	
+	Obs: Scampi e MA-MPS.BR provieram da 15504 \\
+	Obs2: Foi a 15504 que veio com a ideia de régua
 \subsection{Benefícios}
 	Para industrias de software
-		Fornecedores 
-		Organizações de desenvolvimento
+		Fornecedores: Único esquema de avaliação de software
+		Organizações de desenvolvimento: possui ferramenta para iniciar e manter um processo continuo de melhoria
 	Para os compradores de software	
 		Avaliar riscos da seleção de um forncedor sobre outro
 
@@ -696,20 +699,27 @@ Editado em \date{13 de Outubro de 2014}
 \subsection{Composição da Norma}
 
 	Dividida em 10 partes. 
-	Foco na parte 2 e 3
-
+	Foco na parte 2, 3 e 4. Partes chaves!
+	Parte 2: 
+		Como se realiza a avaliação
+		Framework de medição
+		Requisitos para modelos de referência de processos
+	Parte 3:
+		Orientação de como se realiza a avaliação
+	parte 5:
+		Exemplo de modelo de avaliação baseando na 12.207, focando em como deve ser utilizado
 \subsection{Avaliação de melhora de processos de software}
 
 	Contexto de utilização da norma: iniciativa de melhoria de processos de software
 	
-	Avaliação do processo diretamente relacionada
+	Avaliação do processo diretamente relacionada a determinação da capacidade dos processos avaliados
 	
 	\subsubsection{Ciclo de melhoria}
 	\begin{center}
 		\includegraphics[scale=0.30]{ciclo_melhoria}	
 	\end{center}			
 		
-\subsection{Parte 2 - Capacidade de processo}
+\subsection{Parte 2 Norma - Capacidade de processo}
 	Define o conceito de capacidade de processo que é utiliado para se medir os processos avaliados
 
 	\begin{center}
@@ -721,22 +731,21 @@ Editado em \date{13 de Outubro de 2014}
 		\begin{itemize}
 		\item Existe uma falha geral na satisfação do propósito do projeto
 		\item Existem poucos produtos de trabalho ou resultados de processos
-		
 		\end{itemize}				
 		
 	\subsubsection{Nível 1}
 		\begin{itemize}
-		
-
 		\item Propósito é alcançado, talvez de uma forma não planejada e acompanhada
-		\item As pessaos da organização reconhecem quando uma ação deve eser executada e quandoo isto deve ser feito
+		\item As pessaos da organização reconhecem quando uma ação deve ser executada e quando isto deve ser feito
 		\item Existem produtos de trabalho evidenciando a satisfação do propósito do processo		
+				
 		\end{itemize}		
 
 	\subsubsection{Nível 2}
 		\begin{itemize}
 		\item Processo planejados e acompanhados
 		\item Os produtos estão conforme os padrões e requisitos especificados
+		\item Os produtos de trabalho estão sendo gerenciados juntamente com o processo		
 		\item O processo passa a contruir produtos específicos do processo
 		\item A execução do processo geram produtos de trabalho satisafazendo os requisitos de qualidade especificados, dentro do cronograma e dos recursos necessários.
 		
@@ -769,19 +778,43 @@ Editado em \date{13 de Outubro de 2014}
 \subsection{Pontuação para determinação do Nível de Capacidade}
 
 	\includegraphics[scale=0.35]{tabela_pontuacao}
-	
+	Parcialmente alcançado: Tenho evidência direta, mas não tenho indireta, ou vice-versa.
+	Largamente alcançado: Possui fraquezas e evidências
+	Totalmente alcançado: Não possui fraquezas e possui evidências
 	A pontuação é acumulativa para cada nível.
 	Caso tenha nivel F e L, então o nível pode ser atualmente caracterizado
-	
-	\includegraphics[scale=0.37]{exemplo_pontuacao}
+
+	\begin{center}
+	\includegraphics[scale=0.37]{exemplo_pontuacao}	
+	\end{center}
+	Obs: Erro no processo 2, deveria ser nível 3
+\subsection{Elementos de uma avaliação}
+	Imagem slide 21(aula 15.504 2_2014)
+	Modelo de referêcia e framework: Guia geral mps.br
+	Modelo para avaliação, processo de avaliação e escala de pontuaç~ao: Guia de avaliação
+	Método de avaliação: 
+\subsection{Paralelo}
+	MA-MPS.Br x 15.504
+	Preparar: Planejamento e Coleta de dados
+	Realizar: Coleta de dados, Validação e Classificação(F,L,P,N)
+	Documentar: Relatório
 \subsection{Evidências}
 
 	\begin{itemize}
-	\item Evidências diretas: Representam os resultados da implementação de uma diretiva. Exemplos de evidência direta, são planos de projeto, matriz de rastreabilidade, casos de teste.
-	\item Evidências indiretas: Representam consequências indiretas da implementação da diretiva, que indicam que seus objetivos podem ser alcançados. Exemplos: templates, documentos de controle de horas, relatórios, guias.
+	\item Evidências diretas: Representam os resultados da implementação de uma diretiva. É o próprio resultado. Exemplos de evidência direta, são planos de projeto, matriz de rastreabilidade, casos de teste.
+	
+	\item Evidências indiretas: Representam consequências indiretas da implementação da diretiva, que indicam que seus objetivos podem ser alcançados. É um indicativo de que o resultado pode ser gerado. Exemplos: templates, documentos de controle de horas, relatórios, guias.
+
 	\item Evidências declarativas: Representam declarações coletadas através de entevistas com os integrantes do escopo organizacional avaliado, que corroboram a implementação das diretivas.
 	\end{itemize}
 
+\subsection{Exercício}
+	GPR 4: 
+		Evidência direta: Documento mostrando quais os métodos foram utilizados evidênciando os cálculos.
+		Evidência indireta: Atividade em alguma parte do cronograma mostrando que o custo e o esforço está sendo calculado, templates.
+	GPR 11:
+		Evidência direta: Documentação da viabilidade do documento mostrando que as retrições e recursos foram levados em conta.
+		EI:Template de documento para viabilidade
 \section{Métodos de Implementação} \date{19/05/2014}
 \subsection{PDCA (Muito ligado a resolução de problemas)}
 \paragraph{Usado para resolução de problemas de forma geral}
