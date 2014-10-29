@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.8.11)  22 OCT 2014 11:01
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.8.11)  29 OCT 2014 11:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -546,91 +546,91 @@ File: imagens/tabela_pontuacao.png Graphic file (type png)
 Package pdftex.def Info: imagens/tabela_pontuacao.png used on input line 780.
 (pdftex.def)             Requested size: 391.7193pt x 206.92616pt.
 
-Overfull \hbox (46.7193pt too wide) in paragraph at lines 780--781
-[] 
+Overfull \hbox (46.7193pt too wide) in paragraph at lines 780--786
+[]
  []
 
 <imagens/exemplo_pontuacao.png, id=87, 1173.38374pt x 330.23375pt>
 File: imagens/exemplo_pontuacao.png Graphic file (type png)
 
 <use imagens/exemplo_pontuacao.png>
-Package pdftex.def Info: imagens/exemplo_pontuacao.png used on input line 785.
+Package pdftex.def Info: imagens/exemplo_pontuacao.png used on input line 788.
 (pdftex.def)             Requested size: 434.14519pt x 122.18456pt.
 
-Overfull \hbox (89.14519pt too wide) in paragraph at lines 785--786
+Overfull \hbox (89.14519pt too wide) in paragraph at lines 788--789
  [] 
  []
 
 [22 <./imagens/tabela_pontuacao.png>]
-Overfull \hbox (12.91727pt too wide) in paragraph at lines 791--792
+Overfull \hbox (12.91727pt too wide) in paragraph at lines 807--808
 []\OT1/cmr/m/n/10 Evid^encias in-di-re-tas: Rep-re-sen-tam con-sequ^encias in-d
 i-re-tas da im-ple-menta^^Xc~ao
  []
 
-[23 <./imagens/exemplo_pontuacao.png>]
+[23 <./imagens/exemplo_pontuacao.png>] [24]
 LaTeX Font Info:    Font shape `OMS/cmr/bx/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 861.
- [24]
-<imagens/IDEAL.png, id=98, 1031.855pt x 419.5675pt>
+(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 885.
+
+<imagens/IDEAL.png, id=97, 1031.855pt x 419.5675pt>
 File: imagens/IDEAL.png Graphic file (type png)
  <use imagens/IDEAL.png>
-Package pdftex.def Info: imagens/IDEAL.png used on input line 871.
+Package pdftex.def Info: imagens/IDEAL.png used on input line 895.
 (pdftex.def)             Requested size: 412.73468pt x 167.82402pt.
 
-Overfull \hbox (92.73471pt too wide) in paragraph at lines 871--872
+Overfull \hbox (92.73471pt too wide) in paragraph at lines 895--896
  [] 
  []
 
-
-Overfull \hbox (6.52841pt too wide) in paragraph at lines 892--893
+[25 <./imagens/IDEAL.png>]
+Overfull \hbox (6.52841pt too wide) in paragraph at lines 916--917
 []\OT1/cmr/m/n/10 Resolver prob-le-mas, Crono-grama, alo-car, Rela^^Xc~ao de ac
 om-pan-hamento
  []
 
-[25 <./imagens/IDEAL.png>]
-Overfull \hbox (13.3339pt too wide) in paragraph at lines 897--898
+
+Overfull \hbox (13.3339pt too wide) in paragraph at lines 921--922
 []\OT1/cmr/m/n/10 Criam solu^^Xc~oes para os prob-le-mas iden-ti-fi-ca-dos, de-
 sen-volvem es-trat^^Segias! 
  []
 
 
-Overfull \hbox (0.77837pt too wide) in paragraph at lines 920--921
+Overfull \hbox (0.77837pt too wide) in paragraph at lines 944--945
 []\OT1/cmr/m/n/10 Obter com-pro-men-ti-mento com os re-cur-sos (re-spon-s-abil-
 i-dade do grupo
  []
 
-[26] [27] [28]
-Overfull \hbox (29.39494pt too wide) in paragraph at lines 1092--1093
+[26] [27] [28] [29]
+Overfull \hbox (29.39494pt too wide) in paragraph at lines 1116--1117
 []\OT1/cmr/m/n/10 M^^Setrica: Rela^^Xc~ao en-tre es-for^^Xco para manuten^^Xc~a
 o cor-re-tiva e manuten^^Xc~ao
  []
 
-[29] [30]
-Overfull \hbox (6.55608pt too wide) in paragraph at lines 1142--1143
+[30]
+Overfull \hbox (6.55608pt too wide) in paragraph at lines 1166--1167
 []\OT1/cmr/m/n/10 Cria^^Xc~ao de pro-cesso para trans-fer^encia de con-hec-i-me
 nto(Treinamentos) 
  []
 
-[31] (./Anotacoes_aula_mps.aux) ) 
+[31] [32] [33] (./Anotacoes_aula_mps.aux) ) 
 Here is how much of TeX's memory you used:
- 1800 strings out of 494985
- 26000 string characters out of 6180356
+ 1801 strings out of 494985
+ 26018 string characters out of 6180356
  81923 words of memory out of 5000000
- 4993 multiletter control sequences out of 15000+600000
+ 4994 multiletter control sequences out of 15000+600000
  8150 words of font info for 29 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 37i,7n,23p,408b,333s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmbsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pf
-b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Anotacoes_aula_mps.pdf (31 pages, 1953607 bytes).
+ 37i,7n,23p,414b,333s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmbsy10.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Anotacoes_aula_mps.pdf (33 pages, 1957573 bytes).
 PDF statistics:
- 146 PDF objects out of 1000 (max. 8388607)
- 91 compressed objects within 1 object stream
+ 152 PDF objects out of 1000 (max. 8388607)
+ 95 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  71 words of extra memory for PDF output out of 10000 (max. 10000000)
 
